@@ -1,1 +1,1 @@
-Test repository for Computer System Architecture project.
+Test repository for Computer System Architecture project, nothing specific was ever intended.
